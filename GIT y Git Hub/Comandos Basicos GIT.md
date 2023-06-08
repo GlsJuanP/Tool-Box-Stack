@@ -2,7 +2,12 @@
 
 <br>
 
+    Este documento tiene como finalidad ser un refresca-memoria sobre el uso general de GIT y Github, el mismo se inspira y toma el esqueleto narrativo del video que realizó Nicolas Schurmann del canal "Hola Mundo", aunque tambien toma elementos de Juan Diaz del canal Pildoras Informaticas. A medida que se vaya completando se iran citando las fuentes correspondientes. Este documento no tiene fines lucrativos.
+
+<br >
+
 ### Configuración Inicial:
+
 <br>
 
 1. <span style="color:green">git config</span> --global user.email  email@generico.com (Configura Mail)
@@ -30,6 +35,8 @@
 * <span style=  "color: yellow">cd</span> : avanzar/retroceder a traves de los directorios.
 
 * <span style=  "color: yellow">mkdir</span> : Comando para crear directorio. Por ejemplo: "mkdir CarpetaGenerica" crea una subcarpeta en el directorio actual con el nombre "CarpetaGenerica".
+
+Estos comandos son opcionales, para ir a la ubicación tambien se puede usar Git Bash Here con click derecho adentro de la carpeta.
 
 <br>
 
@@ -128,3 +135,10 @@ ____
 <br>
 
 En git se pueden crear <span style = "color : orange"> [comando : git checkout -b Branch B] </span> bifurcaciones "ramas" o "branches" sobre las que cada progrmador puede trabajar independientemente sin modificar la rama principal "Main" o "master", y puede, posteriormente si asi lo desea hacer un <span style = "Color: orange">" git merge Branch B"</span> para fusionar los cambios a la rama principal. (Es importante haber cambiado antes a la rama main con el comando <span style = "Color: orange">" git checkout Main"</span> para poder indicar que se desea fusionar Branch B a la rama Main)
+
+```Python
+
+Despedida = print ("Eso es todo (por el momento)")
+
+```
+
