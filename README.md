@@ -2,6 +2,11 @@
 
 <br>
 
+
+    Este documento tiene como finalidad ser un refresca-memoria sobre el uso general de GIT y Github, el mismo se inspira y toma el esqueleto narrativo del video que realizó Nicolas Schurmann del canal "Hola Mundo", aunque tambien toma elementos de Juan Diaz del canal Pildoras Informaticas. A medida que se vaya completando se iran citando las fuentes correspondientes. Este documento no tiene fines lucrativos.
+
+<br >
+
 ### Configuración Inicial:
 <br>
 
